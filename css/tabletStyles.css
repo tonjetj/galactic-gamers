@@ -1,0 +1,36 @@
+/* Tablet Screen */
+@media (max-width: 1024px) {
+  /* Font sizes */
+  h2 {
+    font-size: 28px;
+  }
+
+  ul li a,
+  p,
+  button {
+    font-size: 15px;
+  }
+
+  ul li a,
+  button {
+    width: 100%;
+  }
+
+  /* Layout */
+
+  .logo {
+    width: 100px;
+  }
+
+  .team-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .tournament {
+    grid-column: 1/3;
+  }
+
+  .date {
+    bottom: 200px;
+  }
+}
