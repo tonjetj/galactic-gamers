@@ -1,5 +1,5 @@
 # Galactic Gamers
-## School assignment for Gokstad Akademiet
+### School assignment for Gokstad Akademiet
 
 ![Galactic Gamers](https://github.com/user-attachments/assets/71bcc115-2abb-4401-b690-6cd31fa11b6c)
 
