@@ -3,7 +3,6 @@
 
 ![Galactic Gamers](https://github.com/user-attachments/assets/71bcc115-2abb-4401-b690-6cd31fa11b6c)
 
-
 Galactic Gamers is a fictional e-sports organization joining various e-sports tournaments and events. 
 The website is created for a school assignment focusing on responsiveness using grid and flex systems, as well as inclusive solutions using semantics and aria labels. 
 
@@ -22,6 +21,10 @@ Galactic Gamers is built using the following technologies:
 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Live Demo
+[Link to Galactic Gamers live demo](https://galactic-gamers.netlify.app)
+
 
 ## Getting Started
 
