@@ -35,53 +35,32 @@ To get started with the project, follow these steps:
 1. Clone the repo:
 
 ```bash
-git clone [https://github.com/tonjetj/galactic-gamers](https://github.com/tonjetj/galactic-gamers.git)
+git clone [https://github.com/tonjetj/galactic-gamers.git](https://github.com/tonjetj/galactic-gamers.git)
 ```
 
-2. Install the dependencies:
+2. Open the project folder:
 
-To install the necessary dependencies for your GitHub repository project after cloning, follow these steps:
-
- a. Make sure you have Node.js installed on your system. If not, download and install it from the official Node.js website.
-
- b. Open your project in an integrated development environment (IDE) like Visual Studio Code (VS Code) or any text editor of your choice.
-
- c. Install the dependencies listed in the package.json file by running:
- 
+After cloning the repository, navigate to the project folder using your file explorer or the terminal: 
+```bash
+cd html-css-exam
 ```
-npm install 
-```
-
-This will install the necessary dependencies specified in the package.json file.
-
-**Note:** If you encounter any issues during the installation process, make sure you have Node.js and npm (Node Package Manager) installed on your system.
 
 ### Running
 
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
-
-This will start the app and open it in your browser at http://localhost:3000. The page will automatically reload if you make any changes to the code. Any lint errors will be displayed in the console.
+To view the project:
+1. Open the index.html file located in the root folder using any modern web browser (e.g., Chrome or Firefox).
+2. Alternatively, you can open the project in an IDE like Visual Studio Code and use a live server extension to view your changes in real time.
 
 ### Building
 
-To build the app for production, use the following command:
-
-```bash
-npm run build
-```
-
-This command will create an optimized production build of the app in the build folder. The build is minified, and the filenames include the hashes. Your app is now ready to be deployed.
-
-### Deployment
-
-To deploy your Eshop application, follow the deployment instructions provided in the [Create React App deployment documentation](https://create-react-app.dev/docs/deployment/). This documentation will guide you through the process of deploying a React app to various hosting platforms.
+Since the project is built with only HTML and CSS, no additional build steps are required. Simply edit the files, and your changes will be reflected immediately when you refresh the browser.
 
 ### Troubleshooting
-If you encounter any issues during the build process, refer to the Create [React App troubleshooting guide](https://create-react-app.dev/docs/troubleshooting/#npm-run-build-fails-to-minify) for possible solutions.
+If you encounter any issues:
+
+Ensure that all necessary files (HTML, CSS, images, etc.) are included in the project directory.
+Check that your browser supports the features you are using.
+Verify your code syntax for typos or errors.
 
 ## Contributing
 
